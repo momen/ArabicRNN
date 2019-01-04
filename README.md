@@ -9,4 +9,4 @@ First, I scrapped all songs (+15K) from this website (fnanen.net) and then store
 
 After having the lyrics file ready (aggregate_lyrics.txt), I used an LSTM-RNN architecture to predict sequences of words. You can see all details regarding the architecture inside the notebook along with some results.
 
-You have any questions: make an issue here or contact me @fahd09
+You have any questions: make an issue here or contact me @mo2men
